@@ -1,0 +1,10 @@
+{
+    "Print to console": {
+        "scope": "scss, css",
+        "prefix": "prem",
+        "body": [
+            "padding: rem($1) rem($2) rem($3) rem($4);",
+        ],
+        "description": "Padding rem"
+    }
+}

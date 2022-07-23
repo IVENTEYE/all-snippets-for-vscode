@@ -1,0 +1,10 @@
+{
+    "Gap rem": {
+        "scope": "scss, css",
+        "prefix": "gapr",
+        "body": [
+            "gap: rem($1);",
+        ],
+        "description": "Gap rem"
+    }
+}

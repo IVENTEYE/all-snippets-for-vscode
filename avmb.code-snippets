@@ -1,0 +1,10 @@
+{
+    "Adaptive value for margin-bottom": {
+        "scope": "scss, css",
+        "prefix": "avmb",
+        "body": [
+            "@include adaptive-value(\"margin-bottom\", $1, $2, 1);",
+        ],
+        "description": "Adaptive value for margin-bottom"
+    }
+}

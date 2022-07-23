@@ -1,0 +1,10 @@
+{
+    "Adaptive value for margin-top": {
+        "scope": "scss, css",
+        "prefix": "avmt",
+        "body": [
+            "@include adaptive-value(\"margin-top\", $1, $2, 1);",
+        ],
+        "description": "Adaptive value for margin-top"
+    }
+}

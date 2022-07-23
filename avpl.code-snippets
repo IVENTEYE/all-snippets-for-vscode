@@ -1,0 +1,10 @@
+{
+    "Adaptive value for padding-left": {
+        "scope": "scss, css",
+        "prefix": "avpl",
+        "body": [
+            "@include adaptive-value(\"padding-left\", $1, $2, 1);",
+        ],
+        "description": "Adaptive value for padding-left"
+    }
+}

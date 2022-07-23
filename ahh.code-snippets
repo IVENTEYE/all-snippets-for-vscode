@@ -1,0 +1,14 @@
+{
+    "Media any-hover": {
+        "scope": "scss,css",
+        "prefix": "ahh",
+        "body": [
+            "@media (any-hover: hover) {",
+            "    &:hover {",
+            "        $1",
+            "    }",
+            "}"
+        ],
+        "description": "Media any-hover"
+    }
+}

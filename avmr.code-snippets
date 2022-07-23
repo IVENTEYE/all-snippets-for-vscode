@@ -1,0 +1,10 @@
+{
+    "Adaptive value for margin-right": {
+        "scope": "scss, css",
+        "prefix": "avmr",
+        "body": [
+            "@include adaptive-value(\"margin-right\", $1, $2, 1);",
+        ],
+        "description": "Adaptive value for margin-right"
+    }
+}

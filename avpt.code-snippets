@@ -1,0 +1,10 @@
+{
+    "Adaptive value for padding-top": {
+        "scope": "scss, css",
+        "prefix": "avpt",
+        "body": [
+            "@include adaptive-value(\"padding-top\", $1, $2, 1);",
+        ],
+        "description": "Adaptive value for padding-top"
+    }
+}

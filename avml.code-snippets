@@ -1,0 +1,10 @@
+{
+    "Adaptive value for margin-left": {
+        "scope": "scss, css",
+        "prefix": "avml",
+        "body": [
+            "@include adaptive-value(\"margin-left\", $1, $2, 1);",
+        ],
+        "description": "Adaptive value for margin-left"
+    }
+}

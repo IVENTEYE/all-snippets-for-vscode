@@ -1,0 +1,10 @@
+{
+    "Adaptive value": {
+        "scope": "css, scss",
+        "prefix": "av",
+        "body": [
+            "@include adaptive-value(\"$1\", $2, $3, 1);",
+        ],
+        "description": "Adaptive value"
+    }
+}

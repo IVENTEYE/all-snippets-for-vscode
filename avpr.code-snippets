@@ -1,0 +1,10 @@
+{
+    "Adaptive value for padding-right": {
+        "scope": "scss, css",
+        "prefix": "avpr",
+        "body": [
+            "@include adaptive-value(\"padding-right\", $1, $2, 1);",
+        ],
+        "description": "Adaptive value for padding-right"
+    }
+}

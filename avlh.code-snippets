@@ -1,0 +1,10 @@
+{
+    "Adaptive value for line-height": {
+        "scope": "scss, css",
+        "prefix": "avlh",
+        "body": [
+            "@include adaptive-value(\"line-height\", $1, $2, 1);",
+        ],
+        "description": "Adaptive value for line-height"
+    }
+}

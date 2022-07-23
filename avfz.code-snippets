@@ -1,0 +1,10 @@
+{
+    "Adaptive value for font-size": {
+        "scope": "scss, css",
+        "prefix": "avfz",
+        "body": [
+            "@include adaptive-value(\"font-size\", $1, $2, 1);",
+        ],
+        "description": "Adaptive value for font-size"
+    }
+}

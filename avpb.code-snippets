@@ -1,0 +1,10 @@
+{
+    "Adaptive value for padding-bottom": {
+        "scope": "scss, css",
+        "prefix": "avpb",
+        "body": [
+            "@include adaptive-value(\"padding-bottom\", $1, $2, 1);",
+        ],
+        "description": "Adaptive value for padding-bottom"
+    }
+}

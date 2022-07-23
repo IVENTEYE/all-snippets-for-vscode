@@ -1,0 +1,14 @@
+{
+    "Media max-width": {
+        "scope": "scss,css",
+        "prefix": "md",
+        "body": [
+            "@media (max-width: $1) {",
+            "    & {",
+            "        $2",
+            "    }",
+            "}"
+        ],
+        "description": "Media max-width"
+    }
+}

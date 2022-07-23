@@ -1,0 +1,20 @@
+{
+	"HTML code for popup": {
+		"scope": "html",
+		"prefix": "popup",
+		"body": [
+			"<div class=\"popup\" id=\"popup\">",
+			"    <div class=\"popup__body\">",
+			"        <div class=\"popup__content\">",
+			"            <a href=\"#\" class=\"popup__close close-popup\">X</a>",
+			"            <div class=\"popup__title\">Это модальное окно №1</div>",
+			"            <div class=\"popup__text\">",
+			"                <a class=\"popup-link\" href=\"#popup_2\">Нажать</a> ipsum dolor sit amet, consectetur adipisicing elit. Iste, perspiciatis culpa voluptatem possimus vero praesentium molestiae consequuntur? Maiores nulla incidunt, ex tempore molestias deserunt ipsum aliquid maxime, animi laborum illo?Iure ipsum magnam at! Itaque ut excepturi in temporibus earum fugiat totam nulla rem pariatur, voluptatum, officiis ab asperiores labore rerum sint provident distinctio magni! Soluta fuga provident sed minus.",
+			"            </div>",
+			"         </div>",
+			"    </div>",
+			"</div>"
+		],
+		"description": "HTML code for popup"
+	}
+}

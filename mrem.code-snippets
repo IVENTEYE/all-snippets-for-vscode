@@ -1,0 +1,10 @@
+{
+    "Margin rem": {
+        "scope": "scss, css",
+        "prefix": "mrem",
+        "body": [
+            "margin: rem($1) rem($2) rem($3) rem($4)",
+        ],
+        "description": "Margin rem"
+    }
+}
